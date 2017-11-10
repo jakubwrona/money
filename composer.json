@@ -1,0 +1,26 @@
+{
+    "name": "jakubwrona",
+    "description": "digit to word (and numbers to words)",
+    "keywords": [],
+    "license": "MIT",
+    "type": "project",
+    "require": {
+        "php": ">=5.6.4",
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "classmap": [
+        ],
+        "psr-4": {
+        },
+        "files": [
+        ]
+    },
+    "config": {
+        "preferred-install": "dist",
+        "sort-packages": true,
+        "optimize-autoloader": true
+    }
+}
+
