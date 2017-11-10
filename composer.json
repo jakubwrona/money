@@ -3,7 +3,7 @@
     "description": "digit to word (and numbers to words)",
     "keywords": [],
     "license": "MIT",
-    "type": "project",
+    "type": "library",
     "version": "0.0.1",
     "require": {
         "php": ">=5.6.4",
