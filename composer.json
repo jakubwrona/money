@@ -11,12 +11,9 @@
     "require-dev": {
     },
     "autoload": {
-        "classmap": [
-        ],
         "psr-4": {
-        },
-        "files": [
-        ]
+      	  "JakubWrona\\Money\\": "Money"
+    	}
     },
     "config": {
         "preferred-install": "dist",
